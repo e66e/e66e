@@ -1,4 +1,4 @@
 # Hi there 👋
 
-- 🔭 Currently building [Backend](https://github.com/e66e/social-app-api) for my social app
+- 🔭 Currently building back-end for my [social app](https://github.com/e66e/social-app-api) 
 - 🌱 Learning Java, Spring, Agentic AI and system design
